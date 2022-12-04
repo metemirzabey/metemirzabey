@@ -4,11 +4,11 @@
 <br clear="both">
 
 <div align="center">
-</div>
 
 ###
 
 🌍 I'm based in Turkey<br>✉️ You can contact me at [Twitter](https://twitter.com/metemirzabey)<br>⚡ Are you looking for a Tesnet, follow me :)
+</div>
 
 ###
 
