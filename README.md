@@ -1,5 +1,5 @@
 ![1](https://user-images.githubusercontent.com/112562131/205508381-d2879c53-676f-4f80-a31d-cf391c2fe88c.png)
-<P>zCONTACT ME</P>
+
 <div align="center">
   <a href="https://twitter.com/metemirzabey" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -15,6 +15,28 @@
 <br clear="both">
 
 <div align="center">
+</div>
+
+###
+<br clear="both">
+
+<div align="center">
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/k4n9RZ6c9Gc3eOvBKc/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/metemirzabey/count.svg?"  />
 </div>
 
 ###
