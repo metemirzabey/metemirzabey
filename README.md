@@ -1,9 +1,16 @@
 ![1](https://user-images.githubusercontent.com/112562131/205508381-d2879c53-676f-4f80-a31d-cf391c2fe88c.png)
 
 
-🌍  I'm based in Turkey
-✉️  You can contact me at [Twitter](https://twitter.com/metemirzabey)
-⚡  Are you looking for a Tesnet, follow me :)
+<br clear="both">
+
+<div align="center">
+</div>
+
+###
+
+<p align="left">🌍  I'm based in Turkey<br>✉️  You can contact me at [Twitter](https://twitter.com/metemirzabey)<br>⚡  Are you looking for a Tesnet, follow me :)</p>
+
+###
 
 <div align="center">
   <a href="https://twitter.com/metemirzabey" target="_blank">
