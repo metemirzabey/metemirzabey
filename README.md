@@ -8,35 +8,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/metemirzabey/metemirzabey/blob/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
-
-<div align="center">
-</div>
-
-###
-<br clear="both">
-
-<div align="center">
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/k4n9RZ6c9Gc3eOvBKc/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/metemirzabey/count.svg?"  />
-</div>
-
-###
