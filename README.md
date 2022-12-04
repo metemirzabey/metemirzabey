@@ -7,7 +7,7 @@
 
 ###
 
-🌍 I'm based in Turkey<br>✉️ You can contact me at [Twitter](https://twitter.com/metemirzabey)<br>⚡ Are you looking for a Tesnet, follow me :)
+🌍Hey, i am Mete Mirzabey, i am in turkey<br>✉️ You can contact me at [Twitter](https://twitter.com/metemirzabey)<br>⚡ Are you looking for a Tesnet, follow me :)
 </div>
 
 ###
